@@ -1,0 +1,11 @@
+{
+    "name": "sta-04/exo-region_php_api_ajax",
+    "description": "\"exo_regions\"",
+    "authors": [
+        {
+            "name": "Eichelberger Julien",
+            "email": "julien.eichelberger@afpa-dev-pompey.fr"
+        }
+    ],
+    "require": {}
+}
