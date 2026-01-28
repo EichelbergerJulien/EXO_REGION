@@ -3,7 +3,7 @@
         'name' => 'sta-04/exo-region_php_api_ajax',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => '8e493c1a7804e67fa3087ae9d7c9dac571c6f576',
+        'reference' => 'c0a18425b15b6cacf79ff531ad653d8ad507ca7b',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'sta-04/exo-region_php_api_ajax' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => '8e493c1a7804e67fa3087ae9d7c9dac571c6f576',
+            'reference' => 'c0a18425b15b6cacf79ff531ad653d8ad507ca7b',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
