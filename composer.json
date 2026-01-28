@@ -7,5 +7,7 @@
             "email": "julien.eichelberger@afpa-dev-pompey.fr"
         }
     ],
-    "require": {}
+    "require": {
+        "symfony/var-dumper": "^8.0"
+    }
 }

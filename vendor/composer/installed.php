@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'sta-04/exo-region_php_api_ajax',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => '8e493c1a7804e67fa3087ae9d7c9dac571c6f576',
+        'type' => 'library',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        'sta-04/exo-region_php_api_ajax' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => '8e493c1a7804e67fa3087ae9d7c9dac571c6f576',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'symfony/polyfill-mbstring' => array(
+            'pretty_version' => 'v1.33.0',
+            'version' => '1.33.0.0',
+            'reference' => '6d857f4d76bd4b343eac26d6b539585d2bc56493',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/polyfill-mbstring',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+        'symfony/var-dumper' => array(
+            'pretty_version' => 'v8.0.4',
+            'version' => '8.0.4.0',
+            'reference' => '326e0406fc315eca57ef5740fa4a280b7a068c82',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/var-dumper',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);
