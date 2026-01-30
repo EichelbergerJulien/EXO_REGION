@@ -8,6 +8,7 @@
         }
     ],
     "require": {
-        "symfony/var-dumper": "^8.0"
+        "symfony/var-dumper": "^8.0",
+        "altorouter/altorouter": "^2.0"
     }
 }
